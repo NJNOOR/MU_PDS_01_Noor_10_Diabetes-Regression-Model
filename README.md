@@ -125,7 +125,7 @@ Actual vs Predicted Plot: A scatter plot comparing the actual disease progressio
 
 Naznin Jahan Noor 
 
-Your GitHub Profile Link
+
 
 
 ### Notes:
